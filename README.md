@@ -1,8 +1,8 @@
 
-# 
-
-A brief description of what this project does and who it's for
-
+# Dataset description:
+The E-commerce Sales Data dataset provides a comprehensive collection of information related to user profiles, product details, and user-product interactions. It is a valuable resource for understanding customer behavior, preferences, and purchasing trends on an e-commerce platform.
+# Project purpose:
+In this project, I use SQL to discover the demographics as well as e-com shopping behaviours of consumers in different geographical locations
 
 # Key insights:
 + Average age of all customers = 44.
